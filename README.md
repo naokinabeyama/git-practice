@@ -1,2 +1,1 @@
-hoge
-test
+practice
